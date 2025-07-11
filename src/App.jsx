@@ -86,7 +86,6 @@ const App = () => {
 
       <div className="flex items-center justify-center p-6 min-h-screen">
         <div className="bg-transparent backdrop-filter backdrop-blur-md rounded-xl shadow-2xl p-8 max-w-md text-white w-full border border-white/30 relative z-10">
-          <h1 className="text-4xl font-extrabold text-center mb-6">Weather-App</h1>
 
           {!weather ? (
             <form onSubmit={handleSearch} className="flex flex-col relative">
@@ -126,7 +125,7 @@ const App = () => {
             </form>
           ) : (
             <div className="text-center">
-              <h2 className="text-2xl mb-4">Weather in {city}</h2>
+              <h3 className="text-2xl mb-4"> ( Weather in ) {city}</h3>
 
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-3xl font-bold">{weather.name}</h2>
@@ -163,7 +162,7 @@ const App = () => {
                 ))}
               </div>
 
-              <div className="flex flex-wrap justify-around mt-6">
+              <div className="flex flex-wrap justify-around mt-0.5">
                 {[
                   [SunriseIcon, 'Sunrise', weather.sys.sunrise],
                   [SunsetIcon, 'Sunset', weather.sys.sunset],
