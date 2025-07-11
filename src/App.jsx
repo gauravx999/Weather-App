@@ -125,7 +125,7 @@ const App = () => {
             </form>
           ) : (
             <div className="text-center">
-              <h3 className="text-2xl mb-4"> ( Weather in ) {city}</h3>
+              <h3 className="text-2xl mb-4"> Weather in {city}</h3>
 
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-3xl font-bold">{weather.name}</h2>
