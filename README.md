@@ -1,12 +1,42 @@
+
+# 🌦️ Weather App
+
+A sleek, real-time weather forecasting app built with **React**, **Vite**, and **Tailwind CSS**. It features live weather data, dynamic UI animations, and responsive design — all optimized and deployed via **Netlify**.
+
+![Weather App Banner](./preview.png) <!-- Replace with your actual banner image path -->
 # React + Vite
+## 🚀 Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* 🔍 **Live City Search** – Instant weather info as you type
+* 🌈 **Dynamic UI** – Background and icon animations based on weather
+* 💨 **Wind, Humidity, Visibility**, and **Sun Movement** indicators
+* 📱 **Fully Responsive** – Works great on all screen sizes
+* ⚡ **Optimized Build** – Lightning-fast using Vite + Netlify
 
-Currently, two official plugins are available:
+## 🛠️ Built With
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **React 19**
+* **Vite**
+* **Tailwind CSS**
+* **OpenWeatherMap API**
+* **Netlify** for deployment
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![App Screenshot](./src/assets/weather-preview.png) <!-- Replace with actual screenshot -->
+
+## 🧠 What I Learned
+
+* Tailwind and PostCSS integration in a Vite project
+* Handling image and asset imports in production builds
+* Building animated React components
+* Deploying Vite apps on Netlify with correct publish directory (`dist`)
+
+## 🔗 Live Demo https://weather-app-run.netlify.app/
+
+[🌐 View Live](https://your-netlify-site.netlify.app/)
+[📂 Source Code](https://github.com/gauravx999/Weather-App)
+
+---
+
+Let me know if you’d like help designing the image banner (`preview.png`) or converting this into a `README.md` file.
