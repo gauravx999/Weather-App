@@ -4,6 +4,7 @@
 A sleek, real-time weather forecasting app built with **React**, **Vite**, and **Tailwind CSS**. It features live weather data, dynamic UI animations, and responsive design — all optimized and deployed via **Netlify**.
 
 # React + Vite
+
 ## 🚀 Features
 
 * 🔍 **Live City Search** – Instant weather info as you type
@@ -22,7 +23,8 @@ A sleek, real-time weather forecasting app built with **React**, **Vite**, and *
 
 ## 📸 Preview
 
-![App Screenshot](./src/assets/weather-preview.png) <!-- Replace with actual screenshot -->
+![App Screenshot](<img width="1826" height="847" alt="image" src="https://github.com/user-attachments/assets/4ade366e-d86b-428e-ad4e-40342273470f" />
+) <!-- Replace with actual screenshot -->
 
 ## 🧠 What I Learned
 
