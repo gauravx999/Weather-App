@@ -3,7 +3,6 @@
 
 A sleek, real-time weather forecasting app built with **React**, **Vite**, and **Tailwind CSS**. It features live weather data, dynamic UI animations, and responsive design — all optimized and deployed via **Netlify**.
 
-![Weather App Banner](./preview.png) <!-- Replace with your actual banner image path -->
 # React + Vite
 ## 🚀 Features
 
@@ -34,9 +33,5 @@ A sleek, real-time weather forecasting app built with **React**, **Vite**, and *
 
 ## 🔗 Live Demo https://weather-app-run.netlify.app/
 
-[🌐 View Live](https://your-netlify-site.netlify.app/)
-[📂 Source Code](https://github.com/gauravx999/Weather-App)
 
----
 
-Let me know if you’d like help designing the image banner (`preview.png`) or converting this into a `README.md` file.
