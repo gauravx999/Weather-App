@@ -23,8 +23,8 @@ A sleek, real-time weather forecasting app built with **React**, **Vite**, and *
 
 ## 📸 Preview
 
-![App Screenshot](<img width="1826" height="847" alt="image" src="https://github.com/user-attachments/assets/4ade366e-d86b-428e-ad4e-40342273470f" />
-) <!-- Replace with actual screenshot -->
+<img width="1826" height="847" alt="image" src="https://github.com/user-attachments/assets/4ade366e-d86b-428e-ad4e-40342273470f" />
+<!-- Replace with actual screenshot -->
 
 ## 🧠 What I Learned
 
